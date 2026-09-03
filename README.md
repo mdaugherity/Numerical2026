@@ -7,7 +7,7 @@ Dr. Mike Daugherity, Abilene Christian University
 * [First Python Examples](intro/Week_1_First_Class_Examples.ipynb) - Examples from the first week of class
 
 ## Numerical Errors
-* [How Numbers are Stored](errors/Week_2_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
+* [How Numbers are Stored](errors/Week_1_How_Numbers_are_Stored.ipynb) - Unavoidable errors in computing, and the central conflict for the semester
 * [Numerical Errors PPT Slides](errors/topic0.pdf)
 
 ## Systems of Linear Equations
