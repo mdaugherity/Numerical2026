@@ -14,7 +14,7 @@ Dr. Mike Daugherity, Abilene Christian University
 ## Systems of Linear Equations
 * [Linear Systems](linear/Week_2_Linear_Systems.ipynb) - Linear Algebra for solving systems of linear equations and np.linalg.solve shortcut
 * [Linear Systems PPT Slides](linear/topic1.pdf)
-
+* [HW1 - Linear](linear/HW1_Linear.ipynb)
 
 <!---
 COMMENTS!!!!!
