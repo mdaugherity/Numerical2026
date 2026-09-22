@@ -22,6 +22,7 @@ Dr. Mike Daugherity, Abilene Christian University
 * [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) 
 * [Multi-Dimensional Roots](roots/Week_4_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
 * [Root Finding PPT Slides](roots/topic2.pdf)
+* [HW2 - Nonlinear](roots/HW_2_Nonlinear_Systems.ipynb)
 
 <!---
 COMMENTS!!!!!
