@@ -19,20 +19,9 @@ Dr. Mike Daugherity, Abilene Christian University
 
 ## Root Finding
 * [Root Finding Class](roots/Week_3_Root_Finding.ipynb) - Root finding methods (bisection, Newton, Secant) and root_scalar
-* [In-class Problem](roots/Week_4_Root_Finding_Problem.ipynb) 
 * [Multi-Dimensional Roots](roots/Week_4_Multi_Roots.ipynb) - Using *root* to solve non-linear systems
 * [Root Finding PPT Slides](roots/topic2.pdf)
 * [HW2 - Nonlinear](roots/HW_2_Nonlinear_Systems.ipynb)
-
-<!---
-COMMENTS!!!!!
-
-# OUTLINE
-## Introduction and Review
-* [Colab Cheet Sheat](intro/Week_1_Intro_to_Colab.ipynb) - A quick intro to python in Google Colab
-* [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
-* [Homework Report Template](Report_Template.ipynb) - Use this for all homework
-* [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
 
 
 ## Fitting and Interpolation
@@ -43,6 +32,18 @@ COMMENTS!!!!!
 * [Fit Practice](fits/Fit_Practice.ipynb) 
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *np.interp* and *CubicSpline*
 * [Fits and Ints PPT Slides](fits/topic3.pdf)
+
+
+
+<!---
+COMMENTS!!!!!
+
+# OUTLINE
+## Introduction and Review
+* [Colab Cheet Sheat](intro/Week_1_Intro_to_Colab.ipynb) - A quick intro to python in Google Colab
+* [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
+* [Homework Report Template](Report_Template.ipynb) - Use this for all homework
+* [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
 
 
 ## Derivatives
