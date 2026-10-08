@@ -32,6 +32,7 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Fit Practice](fits/Fit_Practice.ipynb) 
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *np.interp* and *CubicSpline*
 * [Fits and Ints PPT Slides](fits/topic3.pdf)
+* [HW3 - Fits](fits/HW3_Fits.ipynb)
 
 ## Derivatives
 * [Derivatives](calc/Week_7_Derivatives.ipynb) - Forward vs Centeral Difference, using *gradient*, *derivative*, and splines
