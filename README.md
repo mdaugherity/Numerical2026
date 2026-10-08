@@ -27,12 +27,15 @@ Dr. Mike Daugherity, Abilene Christian University
 ## Fitting and Interpolation
 * [Fitting Polynomials](fits/Week_5_Fitting_Polynomials.ipynb) - Examples of *polyfit* and *polyval*
 * [Curve Fits](fits/Week_5_Curve_Fit.ipynb) - Fitting arbitrary functions with *curve_fit*
-* [Linear Algebra Fits](fits/Week_6_Linear_Algebra_Fits.ipynb) - How *polyfit* works and a methods comparison
+* [Linear Algebra Fits](fits/Week_5_Linear_Algebra_Fits.ipynb) - How *polyfit* works and a methods comparison
 * [Advanced Curve Fitting](fits/Week_6_Advanced_Fitting.ipynb) - Playing with global optimizers like *brute* and *differential_evolution*
 * [Fit Practice](fits/Fit_Practice.ipynb) 
 * [Interpolation](fits/Week_6_Interpolation.ipynb) - using *np.interp* and *CubicSpline*
 * [Fits and Ints PPT Slides](fits/topic3.pdf)
 
+## Derivatives
+* [Derivatives](calc/Week_7_Derivatives.ipynb) - Forward vs Centeral Difference, using *gradient*, *derivative*, and splines
+* [Derivative PPT Slides](calc/topic4-1.pdf)
 
 
 <!---
@@ -45,10 +48,6 @@ COMMENTS!!!!!
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
 
-
-## Derivatives
-* [Derivatives](calc/Week_7_Derivatives.ipynb) - Forward vs Centeral Difference, using *gradient* and splines
-* [Derivative PPT Slides](calc/topic4-1.pdf)
 
 ## Integrals
 * [Integration Examples](calc/Week_8_Integration_Examples.ipynb) - Demos of trapz, simpson, and romberg integration of fixed data points
