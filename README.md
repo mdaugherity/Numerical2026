@@ -38,6 +38,11 @@ Dr. Mike Daugherity, Abilene Christian University
 * [Derivatives](calc/Week_7_Derivatives.ipynb) - Forward vs Centeral Difference, using *gradient*, *derivative*, and splines
 * [Derivative PPT Slides](calc/topic4-1.pdf)
 
+## Integrals
+* [Integration Examples](calc/Week_9_Integration_Examples.ipynb) - Demos of trapz, simpson, and romberg integration of fixed data points
+* [Gaussian Quadrature](calc/Week_9_Quad.ipynb) - Using *quad* as the ultimate tool of integrating functions with Adaptive Gaussian Quadrature 
+* [Integration PPT Slides](calc/topic4-2.pdf)
+
 
 <!---
 COMMENTS!!!!!
@@ -48,12 +53,6 @@ COMMENTS!!!!!
 * [Arrays and Plots](intro/Week_1_Arrays_and_Plots.ipynb) - Numpy and Matplotlib
 * [Homework Report Template](Report_Template.ipynb) - Use this for all homework
 * [LaTeX Crash Course](intro/LaTeX_Crash_Course.ipynb) - How to make nice equations
-
-
-## Integrals
-* [Integration Examples](calc/Week_8_Integration_Examples.ipynb) - Demos of trapz, simpson, and romberg integration of fixed data points
-* [Gaussian Quadrature](calc/Week_8_Quad.ipynb) - Using *quad* as the ultimate tool of integrating functions with Adaptive Gaussian Quadrature 
-* [Integration PPT Slides](calc/topic4-2.pdf)
 
 ## Differential Equations
 * [Euler's Method](ode/Week_9_Euler.ipynb) - simple method for IVP
